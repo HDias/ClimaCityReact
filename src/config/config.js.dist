@@ -1,0 +1,7 @@
+var Config = {
+  openWeather: {
+    key: 'string'
+  }
+}
+
+module.exports = Config;
